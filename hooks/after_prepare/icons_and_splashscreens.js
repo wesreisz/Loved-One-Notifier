@@ -20,7 +20,7 @@ var Orchestrator = require('orchestrator');
 
 var BASES = {
   android: 'res',
-  ios: 'MyIonicApp/Resources'
+  ios: 'LovedOneNotifier/Resources'
 };
 var RESOURCE_DIR = 'resources';
 
