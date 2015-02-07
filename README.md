@@ -5,8 +5,8 @@ An [http://thejackalofjavascript.com/lon/](http://thejackalofjavascript.com/lon/
 
 
 Steps:
-1. Clone
-1. bower install
-1. npm install
-1. grunt platform:add:android
-1. grunt platform:add:android or grunt run:android
+1.  Clone
+1.  bower install
+1.  npm install
+1.  grunt platform:add:android
+1.  grunt platform:add:android or grunt run:android
